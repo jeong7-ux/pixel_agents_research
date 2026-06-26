@@ -22,6 +22,10 @@
 <a href="PLAN_new.md">기획 문서</a> • <a href="walkthrough.md">완료 보고서</a> • <a href="pixel-agents/README.md">원본 프로젝트 안내</a> • <a href="driver/src/config.ts">에이전트 설정</a>
 </div>
 
+<div align="center" style="margin-bottom: 30px;">
+  <img src="./office_preview.png" alt="가상 오피스 실행 화면" width="800" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+</div>
+
 ---
 
 ## 📌 프로젝트 소개
