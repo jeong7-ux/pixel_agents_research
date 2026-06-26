@@ -1,0 +1,17 @@
+# pack-refs with: peeled fully-peeled sorted 
+0f4c115194e930b10fd8118ba23382250182fc91 refs/remotes/origin/dependabot/github_actions/actions/checkout-7
+7ef47930fea9df6cd2663545957be130643d8898 refs/remotes/origin/dependabot/github_actions/softprops/action-gh-release-3
+46be649e5cd874139c940d8123fa03c161de0a6b refs/remotes/origin/dependabot/npm_and_yarn/eslint-plugin-simple-import-sort-13.0.0
+e9f1e9d05f124a2fc8d560e3405fb0ae79831d47 refs/remotes/origin/dependabot/npm_and_yarn/minor-and-patch-53459ac872
+e3664f96c95d63851f9787167ecde220746fbf85 refs/remotes/origin/dependabot/npm_and_yarn/webview-ui/eslint-plugin-simple-import-sort-13.0.0
+111fc0185db8cae765d2f1c29c368551ab8dd396 refs/remotes/origin/dev
+22d4406a79e7913dd41ca5a5de606cfeffbc0e33 refs/remotes/origin/feat/agent-profiles
+8a5cb38f96b523cbe0acfdf9057b862d74120fc1 refs/remotes/origin/feat/zoning
+64f65eb27288a895687642c4299fa4c33073e8b0 refs/remotes/origin/main
+17581a0e8b810c931c5bfbce362be45618cbc936 refs/tags/v1.0.2
+fca6c69b7203cc738ebf6763bb66d21e529d5c50 refs/tags/v1.1.0
+^c6cee2f3bd99fc6ff9638a66ab22a8afeb5ddf0e
+1ac9a514ad574c9dfcc642d4d968928080eaa2e7 refs/tags/v1.1.1
+^d1e332a58a7bb98835b75327df48b4d10622262b
+e22e1249b2b49c59e8eec113b70ecaa487c516a8 refs/tags/v1.2.0
+8d42255e22b89dcd5a2d455d5ec8bf29d3457db5 refs/tags/v1.3.0
